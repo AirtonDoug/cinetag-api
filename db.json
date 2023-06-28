@@ -1,0 +1,30 @@
+{
+
+
+    "videos": [
+    {
+        "id": 1,
+        "titulo": "Família Soprano",
+        "capa": "https://f001.backblazeb2.com/file/papocine/2019/05/20190528-famlia-soprano-papo-de-cinema-poster-teaser.jpg",
+        "link": "https://www.youtube.com/embed/KMx4iFcozK0"
+    },
+    {
+        "id": 2,
+        "titulo": "Breaking Bad",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/9/98/Breaking_bad_3_temporada_poster.jpg",
+        "link": "https://www.youtube.com/embed/UlIRUtJMA40"
+    },
+    {
+        "id": 3,
+        "titulo": "O Poderoso Chefão",
+        "capa": "https://http2.mlstatic.com/D_NQ_NP_922614-MLB52937553757_122022-O.webp",
+        "link": "https://www.youtube.com/embed/UaVTIH8mujA"
+    },
+    {
+        "id": 4,
+        "titulo": "Django Livre",
+        "capa": "https://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/90/08/59/20342920.jpg",
+        "link": "https://www.youtube.com/embed/0fUCuvNlOCg"
+    }
+]
+}
